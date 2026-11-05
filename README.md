@@ -1,6 +1,6 @@
 # Kyl-Aaron
 <html>
   <body>
-    <marquee><p>Hello World!</p></marquee>
+    <marquee><p>Hello World!</p>
   </body>
 </html>
